@@ -57,3 +57,6 @@ License
 This project is licensed under the MIT License.
 
 Use it for good. Improve it if you want. Respect the rules.
+
+![image](https://github.com/user-attachments/assets/a16c1d8a-2ab9-42a2-8c48-19c09fe60990)
+
