@@ -55,25 +55,22 @@ How To Use
 
 # Setup (Clone-and-Go)
 
-bash
-Copy
-Edit
-# Step 1: Clone the repository
+ Step 1: Clone the repository
 git clone https://github.com/Cybro7/Port-scanner.git .
 
-# Step 2: Create a virtual environment
+ Step 2: Create a virtual environment
 python -m venv venv
 
-# Step 3: Activate the environment
-# On Windows:
+ Step 3: Activate the environment
+ On Windows:
 venv\Scripts\activate
-# On Mac/Linux:
+ On Mac/Linux:
 source venv/bin/activate
 
-# Step 4: Install dependencies (if any)
+Step 4: Install dependencies (if any)
 pip install tk
 
-# Step 5: Run the app
+ Step 5: Run the app
 python portscanner.py
 
 ---
