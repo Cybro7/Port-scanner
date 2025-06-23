@@ -53,7 +53,24 @@ How To Use
 4. Click "Start Scan" or press Enter
 5. Results will appear in real-time, showing port statuses
 
-<pre> 🛠️ Setup (Clone-and-Go) ``` # Step 1: Clone the repository git clone https://github.com/Cybro7/Port-scanner.git . # Step 2: Create a virtual environment python -m venv venv # Step 3: Activate the environment # On Windows: venv\Scripts\activate # On Mac/Linux: source venv/bin/activate # Step 4: Install dependencies pip install tk # Step 5: Run the app python portscanner.py ``` </pre>
+<pre> # Step 1: Clone the repository
+git clone https://github.com/Cybro7/Port-scanner.git .
+
+# Step 2: Create a virtual environment
+python -m venv venv
+
+# Step 3: Activate the environment
+# On Windows:
+venv\Scripts\activate
+# On Mac/Linux:
+source venv/bin/activate
+
+# Step 4: Install dependencies (if any)
+pip install tk
+
+# Step 5: Run the app
+python portscanner.py
+ </pre>
 ---
 
 License
