@@ -53,7 +53,7 @@ How To Use
 4. Click "Start Scan" or press Enter
 5. Results will appear in real-time, showing port statuses
 
-🛠️ Setup (Clone-and-Go)
+# Setup (Clone-and-Go)
 
 bash
 Copy
