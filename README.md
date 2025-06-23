@@ -53,8 +53,8 @@ How To Use
 4. Click "Start Scan" or press Enter
 5. Results will appear in real-time, showing port statuses
 
- # Step 1: Clone the repository
- </pre>git clone https://github.com/Cybro7/Port-scanner.git
+ <pre> # Step 1: Clone the repository
+ git clone https://github.com/Cybro7/Port-scanner.git
 
 # Step 2: Create a virtual environment
  python -m venv venv
