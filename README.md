@@ -54,22 +54,22 @@ How To Use
 5. Results will appear in real-time, showing port statuses
 
  # Step 1: Clone the repository
- </pre>git clone https://github.com/Cybro7/Port-scanner.git  </pre>
+ </pre>git clone https://github.com/Cybro7/Port-scanner.git
 
 # Step 2: Create a virtual environment
- </pre>python -m venv venv </pre>
+ python -m venv venv
 
 # Step 3: Activate the environment
 # On Windows:
- </pre>venv\Scripts\activate </pre>
+ venv\Scripts\activate
 # On Mac/Linux:
- </pre>source venv/bin/activate </pre>
+ source venv/bin/activate
 
 # Step 4: Install dependencies (if any)
- </pre>pip install tk </pre>
+ pip install tk
 
 # Step 5: Run the app
- </pre>python portscanner.py </pre>
+ python portscanner.py </pre>
 
 ---
 
